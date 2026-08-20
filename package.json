@@ -1,0 +1,8 @@
+{
+  "name": "employee-management-root",
+  "version": "1.0.0",
+  "description": "Root package for Glitch deployment",
+  "scripts": {
+    "start": "cd backend && npm install && node server.js"
+  }
+}
